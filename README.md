@@ -1,6 +1,6 @@
-# React Easy State
-
-Simple React state management. Made with :heart: and ES6 Proxies.
+<p align="center">
+  <img src="images/logo.svg" width="60%" height="auto" />
+</p>
 
 [![Build](https://img.shields.io/circleci/project/github/RisingStack/react-easy-state/master.svg)](https://circleci.com/gh/RisingStack/react-easy-state/tree/master) [![dependencies Status](https://david-dm.org/RisingStack/react-easy-state/status.svg)](https://david-dm.org/RisingStack/react-easy-state) [![Coverage Status](https://coveralls.io/repos/github/RisingStack/react-easy-state/badge.svg?branch=master&service=github)](https://coveralls.io/github/RisingStack/react-easy-state?branch=master) [![Package size](https://img.shields.io/bundlephobia/minzip/react-easy-state.svg)](https://bundlephobia.com/result?p=react-easy-state) [![Version](https://img.shields.io/npm/v/react-easy-state.svg)](https://www.npmjs.com/package/react-easy-state) [![License](https://img.shields.io/npm/l/react-easy-state.svg)](https://www.npmjs.com/package/react-easy-state) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
